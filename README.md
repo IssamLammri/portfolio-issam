@@ -12,9 +12,17 @@ Key Features:
 Technologies Used:
 - Symfony     Version              6.2.10
 - PHP         Version              8.2.0
+- VUE JS      Version              3.0
 
 Contributions and Issue Reporting:
 Contributions to this project are welcome! If you would like to contribute new features, enhancements, or bug fixes, please feel free to open a pull request. Additionally, if you encounter any issues or have suggestions, please open an issue on the repository.
 
 License:
 This project is licensed under the [License Name]. Please see the LICENSE file for more details.
+
+
+composer install 
+
+yarn install
+yarn build
+yarn watch
