@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "MyComponent",
+  name: "Home",
   props:{
     name: String,
   }
